@@ -3,40 +3,36 @@
 ## Hi there 👋
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
+
+- [Raphael-Vignau/consigne-BO](https://github.com/Raphael-Vignau/consigne-BO) -  (4 months ago)
+- [Raphael-Vignau/consigne-API-NEST](https://github.com/Raphael-Vignau/consigne-API-NEST) -  (5 months ago)
+- [Raphael-Vignau/cote-fig-front](https://github.com/Raphael-Vignau/cote-fig-front) -  (5 months ago)
+- [Raphael-Vignau/cote-fig-api](https://github.com/Raphael-Vignau/cote-fig-api) -  (5 months ago)
 
 #### 🌱 My latest projects
-{{range recentRepos 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
+
+- [Raphael-Vignau/cote-fig-api](https://github.com/Raphael-Vignau/cote-fig-api) - 
+- [Raphael-Vignau/cote-fig-front](https://github.com/Raphael-Vignau/cote-fig-front) - 
+- [Raphael-Vignau/consigne-API-NEST](https://github.com/Raphael-Vignau/consigne-API-NEST) - 
+- [Raphael-Vignau/consigne-BO](https://github.com/Raphael-Vignau/consigne-BO) - 
 
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
+
 
 #### 🔨 My recent Pull Requests
-{{range recentPullRequests 10}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+
+- [Correction mineur](https://github.com/Sabine74/EVAL2-dice-Game/pull/1) on [Sabine74/EVAL2-dice-Game](https://github.com/Sabine74/EVAL2-dice-Game) (10 months ago)
 
 #### ⭐ Recent Stars
-{{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
+
+- [Raphael-Vignau/galax_seed](https://github.com/Raphael-Vignau/galax_seed) - Projet O3W (6 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
-{{range sponsors 5}}
-- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+
 
 #### 👯 Check out some of my recent followers
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
+
 
 #### 💬 Feedback
 
