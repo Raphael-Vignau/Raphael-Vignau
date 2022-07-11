@@ -28,7 +28,7 @@
 
 #### ⭐ Recent Stars
 
-- [Raphael-Vignau/galax_seed](https://github.com/Raphael-Vignau/galax_seed) - Projet O3W (6 months ago)
+- [Raphael-Vignau/galax_seed](https://github.com/Raphael-Vignau/galax_seed) - Projet O3W (7 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
