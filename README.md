@@ -7,7 +7,7 @@
 - [Raphael-Vignau/flutter_formation](https://github.com/Raphael-Vignau/flutter_formation) -  (3 months ago)
 - [Raphael-Vignau/consigne-BO](https://github.com/Raphael-Vignau/consigne-BO) -  (8 months ago)
 - [Raphael-Vignau/consigne-API-NEST](https://github.com/Raphael-Vignau/consigne-API-NEST) -  (8 months ago)
-- [Raphael-Vignau/cote-fig-front](https://github.com/Raphael-Vignau/cote-fig-front) -  (8 months ago)
+- [Raphael-Vignau/cote-fig-front](https://github.com/Raphael-Vignau/cote-fig-front) -  (9 months ago)
 - [Raphael-Vignau/cote-fig-api](https://github.com/Raphael-Vignau/cote-fig-api) -  (9 months ago)
 
 #### 🌱 My latest projects
