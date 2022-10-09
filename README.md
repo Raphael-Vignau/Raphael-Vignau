@@ -29,7 +29,7 @@
 #### ⭐ Recent Stars
 
 - [brunobord/fu-rpg-libre-et-universel](https://github.com/brunobord/fu-rpg-libre-et-universel) - FU RPG: Libre et Universel (2 months ago)
-- [Raphael-Vignau/galax_seed](https://github.com/Raphael-Vignau/galax_seed) - Projet O3W (9 months ago)
+- [Raphael-Vignau/galax_seed](https://github.com/Raphael-Vignau/galax_seed) - Projet O3W (10 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
