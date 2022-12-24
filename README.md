@@ -8,7 +8,7 @@
 - [Raphael-Vignau/consigne-BO](https://github.com/Raphael-Vignau/consigne-BO) -  (11 months ago)
 - [Raphael-Vignau/consigne-API-NEST](https://github.com/Raphael-Vignau/consigne-API-NEST) -  (11 months ago)
 - [Raphael-Vignau/cote-fig-front](https://github.com/Raphael-Vignau/cote-fig-front) -  (11 months ago)
-- [Raphael-Vignau/cote-fig-api](https://github.com/Raphael-Vignau/cote-fig-api) -  (11 months ago)
+- [Raphael-Vignau/cote-fig-api](https://github.com/Raphael-Vignau/cote-fig-api) -  (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@
 
 #### ⭐ Recent Stars
 
-- [brunobord/fu-rpg-libre-et-universel](https://github.com/brunobord/fu-rpg-libre-et-universel) - FU RPG: Libre et Universel (4 months ago)
+- [brunobord/fu-rpg-libre-et-universel](https://github.com/brunobord/fu-rpg-libre-et-universel) - FU RPG: Libre et Universel (5 months ago)
 - [Raphael-Vignau/galax_seed](https://github.com/Raphael-Vignau/galax_seed) - Projet O3W (1 year ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
