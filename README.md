@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Raphael-Vignau/flutter_formation](https://github.com/Raphael-Vignau/flutter_formation) -  (7 months ago)
-- [Raphael-Vignau/consigne-BO](https://github.com/Raphael-Vignau/consigne-BO) -  (11 months ago)
+- [Raphael-Vignau/consigne-BO](https://github.com/Raphael-Vignau/consigne-BO) -  (1 year ago)
 
 #### 🌱 My latest projects
 
