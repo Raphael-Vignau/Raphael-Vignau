@@ -20,7 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Correction mineur](https://github.com/Sabine74/EVAL2-dice-Game/pull/1) on [Sabine74/EVAL2-dice-Game](https://github.com/Sabine74/EVAL2-dice-Game) (1 year ago)
+- [Correction mineur](https://github.com/Sabine74/EVAL2-dice-Game/pull/1) on [Sabine74/EVAL2-dice-Game](https://github.com/Sabine74/EVAL2-dice-Game) (2 years ago)
 
 #### ⭐ Recent Stars
 
