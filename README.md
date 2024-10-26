@@ -4,9 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Raphael-Vignau/coeur-vaillant-card-generator-workspace](https://github.com/Raphael-Vignau/coeur-vaillant-card-generator-workspace) -  (today)
 
 #### 🌱 My latest projects
 
+- [Raphael-Vignau/coeur-vaillant-card-generator-workspace](https://github.com/Raphael-Vignau/coeur-vaillant-card-generator-workspace) - 
 - [Raphael-Vignau/stackblitz-test-dev](https://github.com/Raphael-Vignau/stackblitz-test-dev) - Created with StackBlitz ⚡️
 - [Raphael-Vignau/stackblitz-starters-profil](https://github.com/Raphael-Vignau/stackblitz-starters-profil) - Created with StackBlitz ⚡️
 - [Raphael-Vignau/flutter_formation](https://github.com/Raphael-Vignau/flutter_formation) - 
