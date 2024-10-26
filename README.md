@@ -28,6 +28,16 @@
 - [brunobord/fu-rpg-libre-et-universel](https://github.com/brunobord/fu-rpg-libre-et-universel) - FU RPG: Libre et Universel (2 years ago)
 - [Raphael-Vignau/galax_seed](https://github.com/Raphael-Vignau/galax_seed) - Projet O3W (2 years ago)
 
+#### ❤️ These awesome people sponsor me (thank you!)
+
+
+#### 👯 Check out some of my recent followers
+
+
+#### 💬 Feedback
+
+Say Hello, I don't bite (much)!
+
 #### 📫 How to reach me
 
 - Linkedin: https://www.linkedin.com/in/vignau-raphael/
